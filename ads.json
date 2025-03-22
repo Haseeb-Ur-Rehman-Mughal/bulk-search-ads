@@ -4,7 +4,7 @@
        {
          "imageUrl": "https://github.com/Haseeb-Ur-Rehman-Mughal/bulk-search-ads/blob/main/images/banner1.png",
          "url": "https://ezyontech.com",
-         "enabled": true
+         "enabled": flase
        }
      ]
    }
