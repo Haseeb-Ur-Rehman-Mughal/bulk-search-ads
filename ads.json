@@ -3,8 +3,8 @@
   "ads": [
     {
       "imageUrl": "https://raw.githubusercontent.com/Haseeb-Ur-Rehman-Mughal/bulk-search-ads/main/images/Ad1.png",
-      "url": "",
-      "enabled": false
+      "url": "mailto:haseebmughal546@gmail.com",
+      "enabled": true
     }
   ]
 }
